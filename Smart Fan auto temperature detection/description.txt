@@ -1,0 +1,1 @@
+you can use a relay to control actual fan and if you want to control the speed the you can use an ac dimmer circuit.  
