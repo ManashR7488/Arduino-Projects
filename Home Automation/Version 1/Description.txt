@@ -1,0 +1,3 @@
+By :- Manash Ranjan MR
+
+ this version is based on arduino nano with modules include 20*4 lcd diplay ,rtc ,temperature sensor dht11 ,joystik ,hc05i ,buzzer , and wireings.
